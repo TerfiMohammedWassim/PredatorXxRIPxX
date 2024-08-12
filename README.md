@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=predatorxxripxx" alt="predatorxxripxx" /></a> </p>
 
-- 🌱 I’m currently learning **Next.js ,Nest.js,**
+- 🌱 I’m currently learning **Nest.js,**
 
 - 📫 How to reach me **wassimou009@gmail.com**
 
