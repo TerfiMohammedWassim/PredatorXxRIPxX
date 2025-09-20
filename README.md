@@ -1,91 +1,128 @@
-# 👋 Mohammed Wassim | Full Stack & Mobile Developer
+Mohammed Wassim TERFI
+Spécialiste en Cybersécurité | Pentester Junior
+📧 wassimou0009@gmail.com
+📱 +33 7 83 33 65 71
+🌍 France - Permis B
+🔗 LinkedIn | TryHackMe | GitHub
 
-![Profile Banner](https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png)
+🎯 PROFIL PROFESSIONNEL
+Étudiant en Master 1 Cybersécurité à l'Université Sorbonne Paris avec une solide expérience pratique en tests d'intrusion, sécurisation d'applications et analyse de vulnérabilités. Passionné par la cybersécurité offensive et défensive, avec une expertise technique démontrée à travers des projets concrets et une participation active aux CTF.
 
-## 🚀 About Me
+🛡️ COMPÉTENCES TECHNIQUES
+Cybersécurité Offensive
 
-I'm a passionate Full Stack and Mobile Developer studying at Université Paris-Saclay, constantly exploring and expanding my tech skills. My journey is driven by curiosity and a love for creating innovative solutions.
+Pentesting Web : OWASP Top 10, injection SQL, XSS, CSRF, tests d'authentification
+Tests d'intrusion : Metasploit, Nmap, Hydra, John the Ripper, Hashcat
+Reconnaissance : nslookup, gobuster, ffuf, OSINT, énumération de services
+Social Engineering : SEToolkit, phishing, ingénierie sociale
 
-<img align="right" alt="Coding GIF" width="400" src="https://camo.githubusercontent.com/19db51af5f90f1b152bc0b9078f5fe97053955be5074f03f17019c70345bdcdb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966"/>
+Cybersécurité Défensive
 
-### 🌟 Quick Highlights
-- 🌱 Currently diving deep into **MetaSploit**
-- 📧 Reachable at **wassimou0009@gmail.com**
-- 🎓 Student at Université Paris-Saclay
-- 💡 Passionate about Full Stack & Mobile Development
+SIEM : Azure Sentinel, création de règles KQL, corrélation de logs
+Monitoring : Tableaux de bord, alertes automatisées, analyse comportementale
+Incident Response : Logic Apps, automatisation de réponse, Microsoft Defender
+Forensic : Analyse de logs, investigation numérique, collecte de preuves
 
-## 🛠 Technology Stack
+Sécurisation Applicative
 
-### Languages
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![OCaml](https://img.shields.io/badge/OCaml-EC6813?style=for-the-badge&logo=ocaml&logoColor=white)
+Authentification : Laravel Sanctum, OAuth, JWT, multi-facteurs
+Chiffrement : AES, RSA, hachage sécurisé, PKI
+Conformité : RGPD, OWASP, bonnes pratiques DevSecOps
+Tests de sécurité : Burp Suite, SAST, DAST, revue de code
 
-### Frameworks & Libraries
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+Réseaux & Infrastructure
 
-### Tools & Platforms
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-![Neon](https://img.shields.io/badge/Neon-DB-yellow?style=for-the-badge)
-![Appwrite](https://img.shields.io/badge/Appwrite-F02E65?style=for-the-badge&logo=Appwrite&logoColor=white)
-![PocketBase](https://img.shields.io/badge/PocketBase-B8DBE4?style=for-the-badge&logo=pocketbase&logoColor=black)
-![NextAuth](https://img.shields.io/badge/NextAuth-000000?style=for-the-badge&logo=next.js&logoColor=white)
+Protocoles : TCP/UDP, HTTP/HTTPS, DNS, DHCP, LDAP
+Sécurité réseau : Pare-feux, IDS/IPS, VPN, segmentation
+Outils réseau : Wireshark, Netcat, shells inversés, port scanning
+Cloud Security : Azure, Firebase, sécurisation containers Docker
 
-### Design & Productivity
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
-![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=white)
-## 📊 GitHub Stats
+Développement Sécurisé
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=predatorxxripxx&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-  <img src="https://github-readme-stats.vercel.app/api?username=predatorxxripxx&show_icons=true&locale=en" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=predatorxxripxx" alt="GitHub Streak" />
-</p>
+Langages : Python (socket, argparse), C/C++, Java, C#
+Frameworks : .NET, Laravel, Vue.js, React.js/Next.js
+Bases de données : MySQL, MongoDB, PostgreSQL (sécurisation)
+DevOps : Git/GitHub, Docker, intégration continue sécurisée
 
-## 🤝 Connect With Me
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/mohammed-wassim-terfi-45a9172a5">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://www.facebook.com/profile.php?id=100074025348382">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
-  </a>
-  <a href="https://www.instagram.com/guts.sw/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-</p>
+💼 EXPÉRIENCE PROFESSIONNELLE
+AGENCE DU DEMENAGEMENT | Consultant en Cybersécurité
+04/2025 – 06/2025 | Paris, France
+Mission : Audit de sécurité et sécurisation complète d'un CRM client
 
-## 🏆 GitHub Trophies
+✅ Audit de vulnérabilités : Tests d'intrusion complets, analyse OWASP Top 10
+✅ Architecture sécurisée : Conception Vue.js/Laravel avec authentification robuste
+✅ Conformité RGPD : Mise en conformité données personnelles, chiffrement bout-en-bout
+✅ Contrôles d'accès : Implémentation RBAC avec Laravel Sanctum
+✅ Tests de sécurité : Validation avec Burp Suite, prévention injections SQL
+✅ DevSecOps : Intégration bonnes pratiques sécurisées dans le cycle de développement
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=predatorxxripxx" alt="GitHub Trophies" />
-</p>
+Startup Onistep | Développeur Full-Stack & Sécurité
+06/2024 – 08/2024 | Évry-Courcouronnes, France
+Mission : Développement sécurisé d'un assistant IA
 
----
+🔧 Développement sécurisé : Applications C#/.NET avec validation rigoureuse des entrées
+🔧 Sécurisation base de données : MySQL avec chiffrement et requêtes paramétrées
+🔧 Code sécurisé : Revues de sécurité, tests automatisés, gestion des erreurs
+🔧 Frontend sécurisé : Next.js/React.js avec protection XSS et CSRF
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=predatorxxripxx&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
 
-**Crafted with ❤️ by Mohammed Wassim**
+🎓 FORMATION
+Master 1 Cybersécurité, Réseau et Cloud
+Université Sorbonne Paris | 2025 – Présent
+Modules spécialisés : Cryptographie avancée, Forensic numérique, Gouvernance sécurité, Ethical Hacking
+Licence Informatique - Spécialité Systèmes Intelligents
+Université Paris-Saclay | 09/2023 – 2025
+Focus sécurité : Programmation système, Réseaux sécurisés, Développement sécurisé
+
+🚀 PROJETS CYBERSÉCURITÉ
+Outil de Test d'Intrusion Réseau
+Université Paris-Saclay
+
+🛠️ Développement Python : Outil polyvalent TCP/UDP avec socket et argparse
+🛠️ Fonctionnalités : Scan de ports, shells inversés, redirection de trafic
+🛠️ Transfert sécurisé : Exfiltration de données, tunneling réseau
+🛠️ Preuve de concept : Tests en environnement contrôlé, documentation complète
+
+Déploiement SIEM Azure Sentinel
+Université Paris-Saclay
+
+🔍 Architecture SIEM : Collecte et corrélation de logs multi-sources
+🔍 Règles de détection : Requêtes KQL personnalisées, détection d'anomalies
+🔍 Automatisation : Logic Apps pour réponse automatique aux incidents
+🔍 Intégration : Microsoft Defender, enrichissement des alertes
+
+Participation Active CTF
+TryHackMe & Plateformes diverses
+
+🏆 Pentesting : Exploitation web, escalade de privilèges, post-exploitation
+🏆 OSINT : Reconnaissance passive, collecte d'informations, social engineering
+🏆 Forensic : Analyse malware, investigation post-incident, récupération de données
+🏆 Cryptographie : Cassage d'algorithmes, analyse de chiffrement, reverse engineering
+
+
+🏅 CERTIFICATIONS & COMPÉTENCES
+Certifications en cours
+
+📜 OSCP (Offensive Security Certified Professional) - Préparation
+📜 CEH (Certified Ethical Hacker) - Planifié 2025
+
+Compétences transversales
+
+🗣️ Communication technique : Vulgarisation concepts sécurité, rédaction rapports
+📊 Gestion de projet : Méthodologies agiles, gestion simultanée de tâches
+🔍 Veille technologique : Suivi des nouvelles menaces, CVE, outils émergents
+
+
+🌐 LANGUES
+
+Français : Courant (C2) - Natif
+Anglais : Courant (C1) - Documentation technique, conférences internationales
+
+
+🎯 CENTRES D'INTÉRÊT
+
+Veille cybersécurité : Suivi CVE, nouvelles techniques d'attaque, outils émergents
+Bug Bounty : Recherche de vulnérabilités sur plateformes autorisées
+Conférences : Participation événements cybersécurité (SSTIC, LeHack, BSides)
+Sport : Athlétisme et course (discipline, persévérance, gestion du stress)
